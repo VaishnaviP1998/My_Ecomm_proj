@@ -13,6 +13,13 @@ IDE : Eclipse
 The purpose of this project is the products can be sold online.A person sitting on his/her chair can access all the facilities of the internet to buy and sell the products.
 Unlike traditional commerce that is carried out physically with effort of a person to go and get products, ecommerce has made it easier for human to reduce the effort.
 
+# Documentation:
+The details of the Project can be found below: 
+
+<a href="https://github.com/VaishnaviParvatikar14/My_Ecomm_proj/blob/main/docs/FENOMENAL%20STORE.pdf"><img src="https://github.com/VaishnaviParvatikar14/My_Ecomm_proj/blob/main/images/documentation_ss.PNG" align="center" height="70" width="70" ></a>
+
+
+
 # Setup:
 - Install the libraries needed for the Spring Framework in the Eclipse IDE and the necessary setup for the Database configuration (TomCat server).
 - Ater the intial setup, the code can be run by executing **fashionking.java** file.
