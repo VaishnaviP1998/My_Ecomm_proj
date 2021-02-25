@@ -13,9 +13,9 @@ IDE : Eclipse
 The purpose of this project is the products can be sold online.A person sitting on his/her chair can access all the facilities of the internet to buy and sell the products.
 Unlike traditional commerce that is carried out physically with effort of a person to go and get products, ecommerce has made it easier for human to reduce the effort.
 
-
-
-
+# Installation and Architectural Design
+Install the Eclipse IDE. At the backend Configuration class, DAO implementation classes and DAO test is implemented and testing is done using JUnit test case.
+At the front end the controller classes are implemented like Category Controller,User Controller,Product Controller, Supplier Controller and front end is deployed on the server.
 
 
 
