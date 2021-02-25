@@ -17,5 +17,6 @@ Language: Java
 
 
 
-
+# ER diagram:
+![](media/er_diagram.PNG)
 
