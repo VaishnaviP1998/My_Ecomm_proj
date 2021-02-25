@@ -6,6 +6,7 @@ Framework : Spring
 IDE : Eclipse
 ```
 
+![](images/homepage.PNG)
 
 
 # About:
@@ -14,8 +15,6 @@ Unlike traditional commerce that is carried out physically with effort of a pers
 
 
 
-
-# Architecture design
 
 
 
