@@ -2,7 +2,7 @@
 
 ```
 Language : Java
-Framework : JSP
+Framework : Spring
 IDE : Eclipse
 ```
 
