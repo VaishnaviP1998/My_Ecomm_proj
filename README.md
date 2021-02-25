@@ -1,7 +1,9 @@
 # Fenomenal Store
 
 ```
-Language: Java
+Language : Java
+Framework : JSP
+IDE : Eclipse
 ```
 
 
