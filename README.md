@@ -19,7 +19,7 @@ Unlike traditional commerce that is carried out physically with effort of a pers
 
 
 # ER diagram:
-![](media/er_diagram.PNG)
+![](images/er_dgm.PNG)
 
 
 # Testing:
