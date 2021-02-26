@@ -21,8 +21,8 @@ The details of the Project can be found below:
 
 
 # Setup:
-- Install the libraries needed for the Spring Framework in the Eclipse IDE and the necessary setup for the Database configuration (TomCat server).
-- Ater the intial setup, the code can be run by executing **fashionking.java** file.
+- Install the libraries needed for the Spring Framework in the Eclipse IDE and the necessary setup for the Database configuration.
+- Ater the intial setup, the code can be run.
 
 # Project Structure:
 - At the backend Configuration class, DAO implementation classes and DAO test is implemented and testing is done using JUnit test case.
